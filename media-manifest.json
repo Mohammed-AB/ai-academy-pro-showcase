@@ -11,6 +11,11 @@
       "path": "media/detail.png",
       "bytes": 205328,
       "sha256": "3219d2da12f458eeac7e4cb5b38da7ef591dc56e06c6c84400d85482472718de"
+    },
+    {
+      "path": "media/walkthrough.webm",
+      "bytes": 1541638,
+      "sha256": "440aa6d8505ed2c54342171c4bd40f38e34cedd2b081b67806c7bd8da5bfbdd7"
     }
   ]
 }

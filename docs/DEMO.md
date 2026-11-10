@@ -17,6 +17,9 @@ Pause on the evidence at each decision: python in a disposable worker; execution
 
 - [Main screenshot](../media/overview.png)
 - [Second view](../media/detail.png)
+- [Recorded walkthrough](../media/walkthrough.webm)
+
+This recording executes actual Python: the starter fails two cases, a correction passes all five, then the interface switches to Arabic.
 
 A recording shows a saved run, not a new provider request. Browser viewport checks do not imply physical-device testing.
 
