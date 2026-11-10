@@ -1,0 +1,16 @@
+{
+  "project": "AI Academy PRO",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 193362,
+      "sha256": "56c476ad83ec407bdfe8e04ad1e1785455fbaecf1793d1982efcf2678b3c2916"
+    },
+    {
+      "path": "media/detail.png",
+      "bytes": 205328,
+      "sha256": "3219d2da12f458eeac7e4cb5b38da7ef591dc56e06c6c84400d85482472718de"
+    }
+  ]
+}
